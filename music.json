@@ -1,0 +1,72 @@
+{
+  "playlists": [
+    {
+      "playlist_id": "pl001",
+      "name": "Top Hits",
+      "description": "The hottest tracks right now.",
+      "cover_url": "https://example.com/images/playlists/top-hits.jpg",
+      "tracks": [
+        {
+          "title": "Yêu Là Thế Ư",
+          "artist": {
+            "name": "Mỹ Tâm"
+          }
+        },
+        {
+          "title": "Cơn Mưa Ngang Qua",
+          "artist": {
+            "name": "Sơn Tùng M-TP"
+          }
+        },
+        {
+          "title": "Bước Qua Nhau",
+          "artist": {
+            "name": "Trung Quân"
+          }
+        },
+        {
+          "title": "Mưa Trên Cuộc Tình",
+          "artist": {
+            "name": "Hồ Ngọc Hà"
+          }
+        },
+        {
+          "title": "Hãy Trao Cho Anh",
+          "artist": {
+            "name": "Sơn Tùng M-TP"
+          }
+        },
+        {
+          "title": "Gọi Tên Bốn Mùa",
+          "artist": {
+            "name": "Mỹ Tâm"
+          }
+        },
+        {
+          "title": "Bốn Chữ Lắm",
+          "artist": {
+            "name": "Nhiều Nghệ Sĩ"
+          }
+        },
+        {
+          "title": "Người Lạ Ơi",
+          "artist": {
+            "name": "Karik, Orange"
+          }
+        },
+        {
+          "title": "Chạy Ngay Đi",
+          "artist": {
+            "name": "Sơn Tùng M-TP"
+          }
+        },
+        {
+          "title": "Dusk Till Dawn",
+          "artist": {
+            "name": "Zayn ft. Sia"
+          }
+        }
+      ]
+    }
+  ]
+}
